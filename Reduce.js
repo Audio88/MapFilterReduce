@@ -20,7 +20,7 @@ var modArray2 = numbers.reduce(function(a, b){
 //_______________________
 
 var modArray3 = numbers.reduce(function(a, b){
-	return a + a b;
+	return a + a * b;
 });
 
 
